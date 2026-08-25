@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit anytime scripts/radar.py re-draws it.",
+  "axes": [
+    { "label": "Flutter / Mobile",  "value": 92 },
+    { "label": "Full-Stack Web",    "value": 85 },
+    { "label": "Backend / APIs",    "value": 82 },
+    { "label": "Databases",         "value": 78 },
+    { "label": "AI Integration",    "value": 65 },
+    { "label": "Cloud / DevOps",    "value": 55 },
+    { "label": "Security",          "value": 50 }
+  ]
+}
