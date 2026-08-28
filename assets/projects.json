@@ -1,4 +1,0 @@
-{
-  "_comment": "No repo cards in use right now - the README's 'selected work' section links directly to live apps/sites instead. Add entries here (repo name + optional description override) if you later want to feature specific public GitHub repos with live star/fork cards; scripts/cards.py skips any repo it can't find on the account.",
-  "projects": []
-}

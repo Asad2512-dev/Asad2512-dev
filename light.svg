@@ -1,0 +1,307 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1180 610" width="100%" height="auto" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="ttl dsc">
+  <title id="ttl">Muhammad Asad Ullah — Software Engineer, Flutter &amp; Full-Stack Developer</title>
+  <desc id="dsc">Animated developer profile banner for Muhammad Asad Ullah, a Software Engineer and Flutter &amp; Full-Stack Developer based in Multan, Pakistan. Shows a terminal interface with role, professional snapshot, core technology stack, production stats and contact links.</desc>
+
+  <style>
+    text{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+    .t{fill:#0F172A}.m{fill:#475569}.d{fill:#94A3B8}
+    .cy{fill:#0891B2}.vi{fill:#7C3AED}.em{fill:#059669}
+    .lbl{fill:#94A3B8;letter-spacing:2px}
+    .prompt{fill:#059669}
+  </style>
+
+  <defs>
+    <clipPath id="round"><rect x="0" y="0" width="1180" height="610" rx="24"/></clipPath>
+
+    <linearGradient id="ascii" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="300" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#06B6D4"/>
+      <stop offset="0.34" stop-color="#2563EB"/>
+      <stop offset="0.66" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#10B981"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="260 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="0.5" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#0F172A" stop-opacity="0.02"/>
+    </linearGradient>
+
+    <linearGradient id="shimmer" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="420" y2="0">
+      <stop offset="0" stop-color="#06B6D4" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2563EB" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-420 0;1120 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="rg1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2563EB" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rg2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#06B6D4" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rg3" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#10B981" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rg4" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softshadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#0F172A" flood-opacity="0.12"/>
+    </filter>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/></filter>
+
+    <mask id="reveal">
+      <rect x="30" y="96" width="410" height="0" fill="#fff">
+        <animate attributeName="height" values="0;300" dur="1.6s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1180" height="610" fill="#FFFFFF"/>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="1s" begin="0s" fill="freeze"/>
+      <g><ellipse cx="230" cy="150" rx="420" ry="360" fill="url(#rg2)"/><animateTransform attributeName="transform" type="translate" values="0 0;40 30;0 0" dur="26s" repeatCount="indefinite"/></g>
+      <g><ellipse cx="980" cy="120" rx="460" ry="380" fill="url(#rg1)"/><animateTransform attributeName="transform" type="translate" values="0 0;-36 26;0 0" dur="30s" repeatCount="indefinite"/></g>
+      <g><ellipse cx="1050" cy="560" rx="420" ry="340" fill="url(#rg3)"/><animateTransform attributeName="transform" type="translate" values="0 0;-28 -22;0 0" dur="34s" repeatCount="indefinite"/></g>
+      <g><ellipse cx="180" cy="600" rx="380" ry="300" fill="url(#rg4)"/><animateTransform attributeName="transform" type="translate" values="0 0;30 -18;0 0" dur="38s" repeatCount="indefinite"/></g>
+    </g>
+
+    <g fill="#3B82F6">
+      <circle cx="120" cy="480" r="1.4" opacity="0.16"><animateTransform attributeName="transform" type="translate" values="0 0;18 -60;0 0" dur="17s" repeatCount="indefinite"/></circle>
+      <circle cx="300" cy="520" r="1" opacity="0.13"><animateTransform attributeName="transform" type="translate" values="0 0;-14 -80;0 0" dur="21s" repeatCount="indefinite"/></circle>
+      <circle cx="70" cy="300" r="1.2" opacity="0.14"><animateTransform attributeName="transform" type="translate" values="0 0;22 -50;0 0" dur="19s" repeatCount="indefinite"/></circle>
+      <circle cx="420" cy="420" r="1" opacity="0.1"><animateTransform attributeName="transform" type="translate" values="0 0;10 -70;0 0" dur="23s" repeatCount="indefinite"/></circle>
+      <circle cx="250" cy="120" r="1.3" opacity="0.12"><animateTransform attributeName="transform" type="translate" values="0 0;-18 60;0 0" dur="25s" repeatCount="indefinite"/></circle>
+      <circle cx="620" cy="90" r="1" opacity="0.1"><animateTransform attributeName="transform" type="translate" values="0 0;14 70;0 0" dur="27s" repeatCount="indefinite"/></circle>
+      <circle cx="900" cy="70" r="1.2" opacity="0.11"><animateTransform attributeName="transform" type="translate" values="0 0;-20 66;0 0" dur="29s" repeatCount="indefinite"/></circle>
+      <circle cx="1120" cy="200" r="1.1" opacity="0.1"><animateTransform attributeName="transform" type="translate" values="0 0;-16 -60;0 0" dur="22s" repeatCount="indefinite"/></circle>
+      <circle cx="1080" cy="420" r="1" opacity="0.1"><animateTransform attributeName="transform" type="translate" values="0 0;-12 -72;0 0" dur="24s" repeatCount="indefinite"/></circle>
+      <circle cx="560" cy="560" r="1.2" opacity="0.11"><animateTransform attributeName="transform" type="translate" values="0 0;18 -64;0 0" dur="20s" repeatCount="indefinite"/></circle>
+      <circle cx="760" cy="540" r="1" opacity="0.09"><animateTransform attributeName="transform" type="translate" values="0 0;-14 -70;0 0" dur="26s" repeatCount="indefinite"/></circle>
+      <circle cx="180" cy="560" r="1" opacity="0.1"><animateTransform attributeName="transform" type="translate" values="0 0;24 -50;0 0" dur="28s" repeatCount="indefinite"/></circle>
+      <circle cx="40" cy="180" r="1.1" opacity="0.1"><animateTransform attributeName="transform" type="translate" values="0 0;20 40;0 0" dur="31s" repeatCount="indefinite"/></circle>
+      <circle cx="470" cy="240" r="0.9" opacity="0.09"><animateTransform attributeName="transform" type="translate" values="0 0;-10 -58;0 0" dur="18s" repeatCount="indefinite"/></circle>
+      <circle cx="1000" cy="560" r="1.1" opacity="0.1"><animateTransform attributeName="transform" type="translate" values="0 0;-22 -46;0 0" dur="33s" repeatCount="indefinite"/></circle>
+      <circle cx="820" cy="300" r="0.9" opacity="0.08"><animateTransform attributeName="transform" type="translate" values="0 0;12 -66;0 0" dur="30s" repeatCount="indefinite"/></circle>
+      <circle cx="360" cy="330" r="0.9" opacity="0.08"><animateTransform attributeName="transform" type="translate" values="0 0;-16 54;0 0" dur="24s" repeatCount="indefinite"/></circle>
+      <circle cx="690" cy="360" r="0.9" opacity="0.07"><animateTransform attributeName="transform" type="translate" values="0 0;10 -60;0 0" dur="27s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- LEFT : ASCII PORTRAIT -->
+    <g mask="url(#reveal)">
+      <g transform="translate(0,0)">
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+        <text fill="url(#ascii)" filter="url(#glow)" font-size="15" letter-spacing="1" x="52" y="128" xml:space="preserve" style="white-space:pre">
+          <tspan x="66" dy="0">        ██████████        </tspan>
+          <tspan x="66" dy="19">      ██▒▒▒▒▒▒▒▒▒▒██      </tspan>
+          <tspan x="66" dy="19">    ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒██    </tspan>
+          <tspan x="66" dy="19">   ██▒▒▓▓▓▒▒▒▒▒▒▒▓▓▓▒▒██   </tspan>
+          <tspan x="66" dy="19">   ██▒▒▓▓▓▒▒▒▒▒▒▒▓▓▓▒▒██   </tspan>
+          <tspan x="66" dy="19">   ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██   </tspan>
+          <tspan x="66" dy="19">    ██▒▒▒▒▒▒████▒▒▒▒▒██    </tspan>
+          <tspan x="66" dy="19">     ██▒▒▒▒▒▒▒▒▒▒▒▒▒██     </tspan>
+          <tspan x="66" dy="19">      ████▒▒▒▒▒▒████       </tspan>
+          <tspan x="66" dy="19">   ▄▄████████████████▄▄    </tspan>
+          <tspan x="66" dy="19">  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██  </tspan>
+          <tspan x="66" dy="19"> ██▒▒▒▒  &lt; / &gt;  d e v  ▒▒▒██ </tspan>
+          <tspan x="66" dy="19"> ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██ </tspan>
+        </text>
+        <rect x="40" y="96" width="360" height="2" fill="#2563EB" opacity="0.10">
+          <animate attributeName="y" values="100;372;100" dur="4.5s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <rect x="66" y="392" width="10" height="16" fill="#059669" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" dur="1.15s" begin="2s" repeatCount="indefinite"/>
+    </rect>
+    <text class="d" font-size="11" x="86" y="405" letter-spacing="1" opacity="0"><tspan>rendering identity_</tspan>
+      <animate attributeName="opacity" values="0;0.8" dur="0.6s" begin="2s" fill="freeze"/>
+    </text>
+
+    <g class="sans" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="1.4s" fill="freeze"/>
+      <text x="66" y="456" font-size="12" class="lbl">MULTAN · PAKISTAN</text>
+      <text x="66" y="480" font-size="12" class="lbl" fill="#059669">REMOTE READY</text>
+    </g>
+
+    <!-- RIGHT : TERMINAL -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.9s" begin="1s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="24 0;0 0" dur="0.9s" begin="1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+
+      <g filter="url(#softshadow)">
+        <rect x="470" y="54" width="678" height="504" rx="18" fill="#F8FAFC"/>
+        <rect x="470" y="54" width="678" height="60" rx="18" fill="url(#glass)"/>
+        <rect x="470.5" y="54.5" width="677" height="503" rx="17.5" fill="none" stroke="#0F172A" stroke-opacity="0.08"/>
+      </g>
+      <rect x="470.5" y="54.5" width="677" height="503" rx="17.5" fill="none" stroke="url(#shimmer)" stroke-width="1.4" opacity="0.6"/>
+
+      <path d="M470 72 a18 18 0 0 1 18 -18 h642 a18 18 0 0 1 18 18 v26 h-678 z" fill="#0F172A" fill-opacity="0.02"/>
+      <circle cx="494" cy="80" r="5" fill="#CBD5E1"/>
+      <circle cx="512" cy="80" r="5" fill="#CBD5E1"/>
+      <circle cx="530" cy="80" r="5" fill="#CBD5E1"/>
+      <text x="560" y="84" font-size="12.5" class="m" letter-spacing="0.5">~/asad/profile</text>
+
+      <g transform="translate(1060,80)">
+        <circle cx="0" cy="0" r="4" fill="#059669">
+          <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="0" cy="0" r="4" fill="none" stroke="#059669" stroke-opacity="0.5">
+          <animate attributeName="r" values="4;11" dur="2.4s" repeatCount="indefinite"/>
+          <animate attributeName="stroke-opacity" values="0.5;0" dur="2.4s" repeatCount="indefinite"/>
+        </circle>
+        <text x="12" y="4" font-size="10.5" class="lbl" fill="#059669">AVAILABLE</text>
+      </g>
+      <line x1="470" y1="98" x2="1148" y2="98" stroke="#0F172A" stroke-opacity="0.06"/>
+
+      <g font-size="13.5">
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="2s" fill="freeze"/>
+          <text x="496" y="132"><tspan class="prompt">$</tspan> <tspan class="m">whoami</tspan></text>
+        </g>
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.4s" fill="freeze"/>
+          <text x="496" y="162" class="sans t" font-size="21" font-weight="700">Muhammad Asad Ullah</text>
+        </g>
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.7s" fill="freeze"/>
+          <text x="496" y="186" class="sans" font-size="14" fill="url(#accent)" font-weight="600">Software Engineer</text>
+        </g>
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.9s" fill="freeze"/>
+          <text x="496" y="207" class="m" font-size="13">Flutter &amp; Full-Stack Developer</text>
+        </g>
+
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.1s" fill="freeze"/>
+          <text x="496" y="244"><tspan class="prompt">$</tspan> <tspan class="m">role --current</tspan></text>
+        </g>
+
+        <g opacity="0" font-size="14"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.4s" fill="freeze"/>
+          <defs>
+            <clipPath id="ty0"><rect x="512" y="252" height="22" width="0"><animate attributeName="width" values="0;0;250;250;0;0" keyTimes="0;0;0.10;0.20;0.242;1" dur="12s" begin="3.4s" repeatCount="indefinite"/></rect></clipPath>
+            <clipPath id="ty1"><rect x="512" y="252" height="22" width="0"><animate attributeName="width" values="0;0;250;250;0;0" keyTimes="0;0.25;0.35;0.45;0.492;1" dur="12s" begin="3.4s" repeatCount="indefinite"/></rect></clipPath>
+            <clipPath id="ty2"><rect x="512" y="252" height="22" width="0"><animate attributeName="width" values="0;0;270;270;0;0" keyTimes="0;0.5;0.6;0.7;0.742;1" dur="12s" begin="3.4s" repeatCount="indefinite"/></rect></clipPath>
+            <clipPath id="ty3"><rect x="512" y="252" height="22" width="0"><animate attributeName="width" values="0;0;250;250;0;0" keyTimes="0;0.75;0.85;0.95;0.992;1" dur="12s" begin="3.4s" repeatCount="indefinite"/></rect></clipPath>
+          </defs>
+          <g clip-path="url(#ty0)"><text x="514" y="268" class="cy">Flutter Developer</text></g>
+          <g clip-path="url(#ty1)"><text x="514" y="268" class="cy">Full-Stack Developer</text></g>
+          <g clip-path="url(#ty2)"><text x="514" y="268" class="cy">Mobile Application Engineer</text></g>
+          <g clip-path="url(#ty3)"><text x="514" y="268" class="cy">Software Engineer</text></g>
+          <rect x="514" y="253" width="8" height="15" fill="#059669">
+            <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+            <animate attributeName="x" values="514;514;700;700;514;514" keyTimes="0;0.05;0.2;0.75;0.85;1" dur="12s" begin="3.4s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+
+        <g font-size="12">
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="4.0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.5s" begin="4.0s" fill="freeze"/>
+            <text x="496" y="306"><tspan class="lbl">LOCATION</tspan>    <tspan class="t">Multan, Pakistan</tspan></text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="4.15s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.5s" begin="4.15s" fill="freeze"/>
+            <text x="496" y="328"><tspan class="lbl">EXPERIENCE</tspan>  <tspan class="t">3+ Years Professional</tspan></text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="4.3s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.5s" begin="4.3s" fill="freeze"/>
+            <text x="496" y="350"><tspan class="lbl">FOCUS</tspan>       <tspan class="t">Flutter • Full-Stack • Production Apps</tspan></text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="4.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.5s" begin="4.45s" fill="freeze"/>
+            <text x="496" y="372"><tspan class="lbl">PLATFORMS</tspan>   <tspan class="t">Android • iOS • Web</tspan></text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="4.6s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.5s" begin="4.6s" fill="freeze"/>
+            <text x="496" y="394"><tspan class="lbl">STATUS</tspan>      <tspan class="em">Remote Ready</tspan></text></g>
+        </g>
+
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="4.6s" fill="freeze"/>
+          <g transform="translate(946,264)"><animateTransform attributeName="transform" type="scale" values="0.92;1" additive="sum" dur="0.6s" begin="4.6s" fill="freeze"/>
+            <rect x="0" y="0" width="188" height="64" rx="12" fill="#0F172A" fill-opacity="0.03" stroke="#0F172A" stroke-opacity="0.08"/>
+            <text x="14" y="34" class="sans" font-size="24" font-weight="700" fill="url(#accent)">11</text>
+            <text x="52" y="27" font-size="10" class="lbl">PUBLISHED</text>
+            <text x="52" y="42" font-size="10" class="lbl">MOBILE APPS</text>
+          </g>
+          <g transform="translate(946,338)">
+            <rect x="0" y="0" width="188" height="64" rx="12" fill="#0F172A" fill-opacity="0.03" stroke="#0F172A" stroke-opacity="0.08"/>
+            <text x="14" y="34" class="sans" font-size="24" font-weight="700" fill="url(#accent)">10+</text>
+            <text x="64" y="27" font-size="10" class="lbl">LIVE WEB</text>
+            <text x="64" y="42" font-size="10" class="lbl">PRODUCTS</text>
+          </g>
+        </g>
+
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="3.8s" fill="freeze"/>
+          <text x="496" y="430" font-size="11" class="lbl">CORE STACK</text>
+          <g font-size="11.5" class="t">
+            <animateTransform attributeName="transform" type="scale" values="1;1.004;1" dur="7s" repeatCount="indefinite" additive="sum"/>
+            <g><rect x="496" y="440" width="70" height="22" rx="7" fill="#7C3AED" fill-opacity="0.10" stroke="#7C3AED" stroke-opacity="0.3"/><text x="531" y="455" text-anchor="middle">Flutter</text></g>
+            <g><rect x="572" y="440" width="50" height="22" rx="7" fill="#06B6D4" fill-opacity="0.10" stroke="#06B6D4" stroke-opacity="0.3"/><text x="597" y="455" text-anchor="middle">Dart</text></g>
+            <g><rect x="628" y="440" width="80" height="22" rx="7" fill="#0F172A" fill-opacity="0.04" stroke="#0F172A" stroke-opacity="0.12"/><text x="668" y="455" text-anchor="middle">Firebase</text></g>
+            <g><rect x="714" y="440" width="50" height="22" rx="7" fill="#0F172A" fill-opacity="0.04" stroke="#0F172A" stroke-opacity="0.12"/><text x="739" y="455" text-anchor="middle">GetX</text></g>
+            <g><rect x="770" y="440" width="86" height="22" rx="7" fill="#0F172A" fill-opacity="0.04" stroke="#0F172A" stroke-opacity="0.12"/><text x="813" y="455" text-anchor="middle">REST APIs</text></g>
+            <g><rect x="862" y="440" width="58" height="22" rx="7" fill="#06B6D4" fill-opacity="0.10" stroke="#06B6D4" stroke-opacity="0.3"/><text x="891" y="455" text-anchor="middle">React</text></g>
+            <g><rect x="926" y="440" width="96" height="22" rx="7" fill="#0F172A" fill-opacity="0.04" stroke="#0F172A" stroke-opacity="0.12"/><text x="974" y="455" text-anchor="middle">TypeScript</text></g>
+            <g><rect x="1028" y="440" width="70" height="22" rx="7" fill="#10B981" fill-opacity="0.10" stroke="#059669" stroke-opacity="0.35"/><text x="1063" y="455" text-anchor="middle">Node.js</text></g>
+
+            <g><rect x="496" y="468" width="70" height="22" rx="7" fill="#0F172A" fill-opacity="0.04" stroke="#0F172A" stroke-opacity="0.12"/><text x="531" y="483" text-anchor="middle">Laravel</text></g>
+            <g><rect x="572" y="468" width="58" height="22" rx="7" fill="#0F172A" fill-opacity="0.04" stroke="#0F172A" stroke-opacity="0.12"/><text x="601" y="483" text-anchor="middle">MySQL</text></g>
+            <g><rect x="636" y="468" width="74" height="22" rx="7" fill="#0F172A" fill-opacity="0.04" stroke="#0F172A" stroke-opacity="0.12"/><text x="673" y="483" text-anchor="middle">MongoDB</text></g>
+            <g><rect x="716" y="468" width="46" height="22" rx="7" fill="#0F172A" fill-opacity="0.04" stroke="#0F172A" stroke-opacity="0.12"/><text x="739" y="483" text-anchor="middle">AWS</text></g>
+            <g><rect x="768" y="468" width="60" height="22" rx="7" fill="#0F172A" fill-opacity="0.04" stroke="#0F172A" stroke-opacity="0.12"/><text x="798" y="483" text-anchor="middle">Docker</text></g>
+            <g><rect x="834" y="468" width="60" height="22" rx="7" fill="#0F172A" fill-opacity="0.04" stroke="#0F172A" stroke-opacity="0.12"/><text x="864" y="483" text-anchor="middle">CI/CD</text></g>
+            <g><rect x="900" y="468" width="46" height="22" rx="7" fill="#0F172A" fill-opacity="0.04" stroke="#0F172A" stroke-opacity="0.12"/><text x="923" y="483" text-anchor="middle">Git</text></g>
+          </g>
+        </g>
+
+        <g opacity="0" font-size="12"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="5s" fill="freeze"/>
+          <text x="496" y="516"><tspan class="lbl">SELECTED WORK  </tspan><tspan class="m">Lite Nurse Clinic · Beyond Today · ClubSync</tspan></text>
+        </g>
+
+        <line x1="496" y1="528" x2="1134" y2="528" stroke="#0F172A" stroke-opacity="0.06"/>
+
+        <g opacity="0" font-size="11.5" class="m"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="5.2s" fill="freeze"/>
+          <a xlink:href="https://github.com/Asad2512-dev" target="_blank">
+            <g transform="translate(496,540)">
+              <path d="M9 1a8 8 0 0 0-2.5 15.6c.4.1.5-.2.5-.4v-1.4c-2.2.5-2.7-1-2.7-1-.4-1-.9-1.2-.9-1.2-.7-.5.1-.5.1-.5.8.1 1.2.8 1.2.8.7 1.2 1.9.9 2.4.7.1-.5.3-.9.5-1.1-1.8-.2-3.6-.9-3.6-3.9 0-.9.3-1.6.8-2.1 0-.2-.4-1 .1-2.1 0 0 .7-.2 2.2.8a7.6 7.6 0 0 1 4 0c1.5-1 2.2-.8 2.2-.8.5 1.1.1 1.9.1 2.1.5.5.8 1.2.8 2.1 0 3-1.8 3.7-3.6 3.9.3.3.5.8.5 1.5v2.2c0 .2.1.5.6.4A8 8 0 0 0 9 1Z" fill="#475569"/>
+              <text x="24" y="13">GitHub</text>
+            </g>
+          </a>
+          <a xlink:href="https://linkedin.com/in/asadullah2512" target="_blank">
+            <g transform="translate(600,540)">
+              <path d="M2 3.2A1.7 1.7 0 1 1 2 0a1.7 1.7 0 0 1 0 3.2ZM.4 5h3.2v10H.4zM6 5h3v1.4h.1c.4-.8 1.5-1.6 3-1.6 3.2 0 3.8 2 3.8 4.7V15h-3.2v-4.8c0-1.1 0-2.6-1.6-2.6s-1.9 1.3-1.9 2.6V15H6z" fill="#475569"/>
+              <text x="22" y="13">LinkedIn</text>
+            </g>
+          </a>
+          <a xlink:href="https://codebyasad.com/" target="_blank">
+            <g transform="translate(712,540)">
+              <circle cx="8" cy="8" r="7.4" fill="none" stroke="#475569" stroke-width="1.3"/>
+              <path d="M.6 8h14.8M8 .6c2.4 2.2 2.4 12.6 0 14.8M8 .6C5.6 2.8 5.6 13.2 8 15.4" fill="none" stroke="#475569" stroke-width="1.1"/>
+              <text x="22" y="13">Portfolio</text>
+            </g>
+          </a>
+          <a xlink:href="mailto:masadullah1206@gmail.com" target="_blank">
+            <g transform="translate(820,540)">
+              <rect x="0.6" y="2" width="15" height="12" rx="2" fill="none" stroke="#475569" stroke-width="1.3"/>
+              <path d="M1 3l7 6 7-6" fill="none" stroke="#475569" stroke-width="1.3"/>
+              <text x="22" y="13">Email</text>
+            </g>
+          </a>
+        </g>
+      </g>
+    </g>
+
+    <rect x="0" y="0" width="1180" height="2" fill="#0F172A" opacity="0.03">
+      <animate attributeName="y" values="-4;612" dur="9s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect width="1180" height="610" filter="url(#grain)" opacity="0.02"/>
+    <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="#0F172A" stroke-opacity="0.08"/>
+  </g>
+</svg>
