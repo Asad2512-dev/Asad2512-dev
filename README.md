@@ -5,7 +5,6 @@
   <img src="assets/header-v1.svg" alt="Muhammad Asad Ullah — Full-Stack Software Engineer" width="100%">
 </picture>
 
-<img src="https://github.com/Asad2512-dev.png" width="120" height="120" alt="Asad Ullah's GitHub profile photo" style="border-radius:50%">
 
 <a href="https://codebyasad.com"><img src="https://img.shields.io/badge/PORTFOLIO-codebyasad.com-7c3aed?style=for-the-badge" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/asadullah2512"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -152,16 +151,21 @@ The inventory below includes the web properties, mobile applications, standalone
 
 **First Place** — MNS University Library App Development Competition, 2025
 
-## GitHub telemetry
+## GitHub overview
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"><img src="assets/github-stats.svg" alt="GitHub telemetry" width="100%"></picture>
+<a href="https://github.com/Asad2512-dev">
+  <img src="assets/profile-overview.svg" width="98%" alt="Asad Ullah's developer profile overview">
+</a>
+<a href="https://github.com/Asad2512-dev?tab=repositories">
+  <img src="assets/technology-toolkit.svg" width="98%" alt="Core technology toolkit">
+</a>
+<a href="https://github.com/Asad2512-dev?tab=overview&from=2020-01-01&to=2026-12-31">
+  <img src="assets/contribution-activity.svg" width="98%" alt="GitHub contribution activity — open profile for live history">
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asad2512-dev&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="Asad's GitHub stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad2512-dev&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most used languages">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad2512-dev&bg_color=00000000&color=7c3aed&line=06b6d4&point=7c3aed&area=true&hide_border=true&radius=8&custom_title=CONTRIBUTION%20ACTIVITY" width="98%" alt="GitHub contribution activity">
+[View my GitHub profile](https://github.com/Asad2512-dev) · [Explore repositories](https://github.com/Asad2512-dev?tab=repositories) · [View contribution history](https://github.com/Asad2512-dev?tab=overview)
 
 </div>
 
