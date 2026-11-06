@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="410" viewBox="0 0 1000 410" role="img" aria-label="Tools across the full delivery lifecycle">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<rect width="1000" height="410" fill="#ffffff"/>
+<path d="M0 1H1000" stroke="url(#g)" stroke-width="4"/>
+<text x="42" y="57" fill="#667085" font-family="monospace" font-size="14" letter-spacing="3">TECHNICAL STACK</text>
+<text x="42" y="105" fill="#17202a" font-family="Arial,sans-serif" font-size="34" font-weight="700">Tools across the full delivery lifecycle</text>
+<text x="42" y="137" fill="#667085" font-family="Arial,sans-serif" font-size="16">A consolidated view of reported hands-on technologies</text>
+<path d="M42 157H958" stroke="#d0d7de"/>
+<circle cx="55" cy="188" r="5" fill="#8b5cf6"/>
+<text x="76" y="194" fill="#17202a" font-family="Arial,sans-serif" font-size="18" font-weight="700">LANGUAGES</text>
+<text x="330" y="194" fill="#667085" font-family="Arial,sans-serif" font-size="16">JavaScript · TypeScript · PHP · Dart · Python · SQL</text>
+<circle cx="55" cy="230" r="5" fill="#22c55e"/>
+<text x="76" y="236" fill="#17202a" font-family="Arial,sans-serif" font-size="18" font-weight="700">WEB</text>
+<text x="330" y="236" fill="#667085" font-family="Arial,sans-serif" font-size="16">React · Next.js · Node.js · Express · Laravel · Tailwind</text>
+<circle cx="55" cy="272" r="5" fill="#8b5cf6"/>
+<text x="76" y="278" fill="#17202a" font-family="Arial,sans-serif" font-size="18" font-weight="700">MOBILE</text>
+<text x="330" y="278" fill="#667085" font-family="Arial,sans-serif" font-size="16">Flutter · GetX · Provider · Firebase · FCM</text>
+<circle cx="55" cy="314" r="5" fill="#22c55e"/>
+<text x="76" y="320" fill="#17202a" font-family="Arial,sans-serif" font-size="18" font-weight="700">DATA</text>
+<text x="330" y="320" fill="#667085" font-family="Arial,sans-serif" font-size="16">MySQL · PostgreSQL · MongoDB · SQLite · Firestore</text>
+<circle cx="55" cy="356" r="5" fill="#8b5cf6"/>
+<text x="76" y="362" fill="#17202a" font-family="Arial,sans-serif" font-size="18" font-weight="700">CLOUD &amp; DEVOPS</text>
+<text x="330" y="362" fill="#667085" font-family="Arial,sans-serif" font-size="16">AWS · Docker · Linux · Nginx · Git · CI/CD</text>
+<circle cx="55" cy="398" r="5" fill="#22c55e"/>
+<text x="76" y="404" fill="#17202a" font-family="Arial,sans-serif" font-size="18" font-weight="700">AI &amp; RESEARCH</text>
+<text x="330" y="404" fill="#667085" font-family="Arial,sans-serif" font-size="16">PyTorch · CNNs · Computer Vision · KAN · Frequency methods</text>
+</svg>

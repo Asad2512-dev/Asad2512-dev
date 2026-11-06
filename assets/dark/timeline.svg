@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Professional experience">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<rect width="1000" height="330" fill="#0d1117"/>
+<path d="M0 1H1000" stroke="url(#g)" stroke-width="4"/>
+<text x="42" y="57" fill="#9aa4b2" font-family="monospace" font-size="14" letter-spacing="3">THE ROUTE</text>
+<text x="42" y="105" fill="#e6edf3" font-family="Arial,sans-serif" font-size="34" font-weight="700">Professional experience</text>
+<text x="42" y="137" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">Concurrent freelance work alongside company roles</text>
+<path d="M42 157H958" stroke="#30363d"/>
+<circle cx="55" cy="188" r="5" fill="#8b5cf6"/>
+<text x="76" y="194" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="700">OCT 2022 — NOW</text>
+<text x="330" y="194" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">Freelance Software Engineer · Self-employed</text>
+<circle cx="55" cy="230" r="5" fill="#22c55e"/>
+<text x="76" y="236" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="700">JUN 2023 — JAN 2026</text>
+<text x="330" y="236" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">Flutter &amp; Full-Stack Developer · Cyphersol Technologies</text>
+<circle cx="55" cy="272" r="5" fill="#8b5cf6"/>
+<text x="76" y="278" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="700">DEC 2025 — OCT 2026</text>
+<text x="330" y="278" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">Senior Flutter Developer · The Code Kraft</text>
+<circle cx="55" cy="314" r="5" fill="#22c55e"/>
+<text x="76" y="320" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="700">2022 — 2026</text>
+<text x="330" y="320" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">BS Computer Science · NUML Multan</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="370" viewBox="0 0 1000 370" role="img" aria-label="A broad portfolio of shipped and ongoing work">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<rect width="1000" height="370" fill="#ffffff"/>
+<path d="M0 1H1000" stroke="url(#g)" stroke-width="4"/>
+<text x="42" y="57" fill="#667085" font-family="monospace" font-size="14" letter-spacing="3">PROJECT INDEX</text>
+<text x="42" y="105" fill="#17202a" font-family="Arial,sans-serif" font-size="34" font-weight="700">A broad portfolio of shipped and ongoing work</text>
+<text x="42" y="137" fill="#667085" font-family="Arial,sans-serif" font-size="16">Full inventory is documented below in this profile</text>
+<path d="M42 157H958" stroke="#d0d7de"/>
+<circle cx="55" cy="188" r="5" fill="#8b5cf6"/>
+<text x="76" y="194" fill="#17202a" font-family="Arial,sans-serif" font-size="18" font-weight="700">13 WEB PROPERTIES</text>
+<text x="330" y="194" fill="#667085" font-family="Arial,sans-serif" font-size="16">Business websites, product platforms and portfolio properties</text>
+<circle cx="55" cy="230" r="5" fill="#22c55e"/>
+<text x="76" y="236" fill="#17202a" font-family="Arial,sans-serif" font-size="18" font-weight="700">11 MOBILE APPS</text>
+<text x="330" y="236" fill="#667085" font-family="Arial,sans-serif" font-size="16">Published Android and iOS applications</text>
+<circle cx="55" cy="272" r="5" fill="#8b5cf6"/>
+<text x="76" y="278" fill="#17202a" font-family="Arial,sans-serif" font-size="18" font-weight="700">4 SOFTWARE SYSTEMS</text>
+<text x="330" y="278" fill="#667085" font-family="Arial,sans-serif" font-size="16">ClubSync · Voting Machine · Supervisor Allocation · Voice Library</text>
+<circle cx="55" cy="314" r="5" fill="#22c55e"/>
+<text x="76" y="320" fill="#17202a" font-family="Arial,sans-serif" font-size="18" font-weight="700">PRODUCT VENTURES</text>
+<text x="330" y="320" fill="#667085" font-family="Arial,sans-serif" font-size="16">MenuWave · TotalCashPro · BiteRush · Buildexa</text>
+<circle cx="55" cy="356" r="5" fill="#8b5cf6"/>
+<text x="76" y="362" fill="#17202a" font-family="Arial,sans-serif" font-size="18" font-weight="700">ACADEMIC &amp; RESEARCH</text>
+<text x="330" y="362" fill="#667085" font-family="Arial,sans-serif" font-size="16">ExamCell · UniSecure · Campus Ride · RCR-DeepFake · FreqKAN</text>
+</svg>

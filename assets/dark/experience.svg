@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="Production-focused software development">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<rect width="1000" height="290" fill="#0d1117"/>
+<path d="M0 1H1000" stroke="url(#g)" stroke-width="4"/>
+<text x="42" y="57" fill="#9aa4b2" font-family="monospace" font-size="14" letter-spacing="3">EXPERIENCE</text>
+<text x="42" y="105" fill="#e6edf3" font-family="Arial,sans-serif" font-size="34" font-weight="700">Production-focused software development</text>
+<text x="42" y="137" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">Mobile engineering, full-stack delivery and independent product work</text>
+<path d="M42 157H958" stroke="#30363d"/>
+<circle cx="55" cy="188" r="5" fill="#8b5cf6"/>
+<text x="76" y="194" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="700">THE CODE KRAFT</text>
+<text x="330" y="194" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">Flutter · Dart · GetX · Clean Architecture · REST · Firebase</text>
+<circle cx="55" cy="230" r="5" fill="#22c55e"/>
+<text x="76" y="236" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="700">CYPHERSOL TECHNOLOGIES</text>
+<text x="330" y="236" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">Six production mobile apps · API integrations · releases</text>
+<circle cx="55" cy="272" r="5" fill="#8b5cf6"/>
+<text x="76" y="278" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="700">FREELANCE</text>
+<text x="330" y="278" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">Web apps · Flutter apps · APIs · dashboards · deployment</text>
+</svg>

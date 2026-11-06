@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Engineering across the product lifecycle">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<rect width="1000" height="330" fill="#0d1117"/>
+<path d="M0 1H1000" stroke="url(#g)" stroke-width="4"/>
+<text x="42" y="57" fill="#9aa4b2" font-family="monospace" font-size="14" letter-spacing="3">WHOAMI</text>
+<text x="42" y="105" fill="#e6edf3" font-family="Arial,sans-serif" font-size="34" font-weight="700">Engineering across the product lifecycle</text>
+<text x="42" y="137" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">From interface and APIs to data, deployment and production support</text>
+<path d="M42 157H958" stroke="#30363d"/>
+<circle cx="55" cy="188" r="5" fill="#8b5cf6"/>
+<text x="76" y="194" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="700">FOCUS</text>
+<text x="330" y="194" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">Full-stack web · Flutter mobile · Product engineering</text>
+<circle cx="55" cy="230" r="5" fill="#22c55e"/>
+<text x="76" y="236" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="700">WEB</text>
+<text x="330" y="236" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">React · Next.js · Node.js · Express · Laravel</text>
+<circle cx="55" cy="272" r="5" fill="#8b5cf6"/>
+<text x="76" y="278" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="700">MOBILE</text>
+<text x="330" y="278" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">Flutter · Dart · Android · iOS · Firebase</text>
+<circle cx="55" cy="314" r="5" fill="#22c55e"/>
+<text x="76" y="320" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="700">RESEARCH</text>
+<text x="330" y="320" fill="#9aa4b2" font-family="Arial,sans-serif" font-size="16">Python · PyTorch · Computer vision · Deepfake detection</text>
+</svg>
