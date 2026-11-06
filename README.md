@@ -25,7 +25,7 @@ I enjoy turning practical requirements into maintainable software — from respo
 
 - **Current professional identity:** Full-Stack Software Engineer · Web & Mobile Application Developer
 - **Core strengths:** Flutter, React/Next.js, Node.js/Express, Laravel/PHP, REST APIs and database-driven systems
-- **Reported portfolio:** 11 published mobile applications and 13 listed web properties
+- **Reported portfolio:** 11+ published mobile applications and 13+ listed web properties
 - **Education:** BS Computer Science, National University of Modern Languages (NUML), Multan
 - **Achievement:** First Place — MNS University Library App Development Competition, 2025
 - **Portfolio:** [codebyasad.com](https://codebyasad.com)
@@ -36,7 +36,7 @@ I enjoy turning practical requirements into maintainable software — from respo
 
 The inventory below includes the web properties, mobile applications, standalone software systems, product ventures and research projects documented in my professional profile. Some are client or business properties, some are academic projects, and some are products or research initiatives; they should not be interpreted as 28 independent commercial engagements.
 
-### Web properties — 13 listed
+### Web properties — 13+ listed
 
 | # | Project | Focus | Link |
 |---:|---|---|---|
@@ -151,23 +151,6 @@ The inventory below includes the web properties, mobile applications, standalone
 
 **First Place** — MNS University Library App Development Competition, 2025
 
-## GitHub overview
-
-<div align="center">
-
-<a href="https://github.com/Asad2512-dev">
-  <img src="assets/profile-overview.svg" width="98%" alt="Asad Ullah's developer profile overview">
-</a>
-<a href="https://github.com/Asad2512-dev?tab=repositories">
-  <img src="assets/technology-toolkit.svg" width="98%" alt="Core technology toolkit">
-</a>
-<a href="https://github.com/Asad2512-dev?tab=overview&from=2020-01-01&to=2026-12-31">
-  <img src="assets/contribution-activity.svg" width="98%" alt="GitHub contribution activity — open profile for live history">
-</a>
-
-[View my GitHub profile](https://github.com/Asad2512-dev) · [Explore repositories](https://github.com/Asad2512-dev?tab=repositories) · [View contribution history](https://github.com/Asad2512-dev?tab=overview)
-
-</div>
 
 ## Let's connect
 
