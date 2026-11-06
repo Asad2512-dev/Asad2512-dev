@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Asad2512-dev">GitHub</a> ·
   <a href="https://codebyasad.com/">Portfolio</a> ·
   <a href="https://linkedin.com/in/asadullah2512">LinkedIn</a> ·
   <a href="mailto:masadullah1206@gmail.com">Email</a>
